@@ -1,4 +1,6 @@
-### Hi there 👋
+- 👋 Hi, I’m Avi Resnick
+- 🔬 I’m studying Computer Science at the University of Pennsylvania
+- 👽 Currently, I am working on software research at NASA
 
 <!--
 **Aviel-Resnick/Aviel-Resnick** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
